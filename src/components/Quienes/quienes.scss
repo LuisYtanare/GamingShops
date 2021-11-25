@@ -1,0 +1,31 @@
+.quienes{
+    background: #ffffff;
+    color:#0B1D51;
+    font-size: 16px;
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+    display: block;
+    text-align: center;
+    align-items: center;
+    
+    p{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+              
+        span{
+            font-size: 20px;
+        }
+    }
+    
+}
+
+.conts{
+    display: flex; 
+    align-items: center;
+    padding: 30px;
+    margin: 30px;
+    border: 2px solid #5f0263;
+    border-radius: 10px;
+}
